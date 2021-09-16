@@ -1,28 +1,41 @@
-# TASK-NAME
+# Discover what's a website in this task
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+In this task, you'll learn and discover the main languages for web development (HTML, CSS, Javascript).
 
-## Instructions
+# The Easy Peasy Lemon Squeezy Tasks 🍋
 
-Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
+- [ ] Double click on `index.html` file, now you should the website in your browser!
 
-### 1. Extract Components
+- [ ] Open the folder in VSCode. You can do that by dragging the folder to VSCode icon, or go to VSCode and go to File > Open, and choose the folder from your computer directories.
 
-- [ ] Look at the html in `index.html`
-- [ ] Move it into `App.js`
-- [ ] Do you see those cards? Can you turn them into a component??
+- [ ] From VSCode, open `index.html`
+- [ ] Change the title `Welcome to the Full-Stack Bootcamp by CODED!` to something more exciting from your taste! add some emojis to it to make it fun 🥰
 
-It should look like this:
+- [ ] Change `YOUR_NAME` text to your real name
+- [ ] Change the description to what your vision is of this bootcamp
+- [ ] Change the list to your goals of this bootcamp
 
-![screenshot](https://tenor.com/xNjE.gif)
+- [ ] From VSCode, open `style.css` file
+- [ ] Select all, using the shortcut of course, and cut, using the shortcut of course😙
+- [ ] Now save, and refresh the page, what do you see!! 😱
+- [ ] You should always save after you do any edits!
+- [ ] Now undo, using the shortcut of course! 😏
+- [ ] And save, and refresh the page, thanks God, everything looks readable now!
 
-### 2. Do the thing
+Change the background color
 
-Explanation of the thing and why we're about to do it. Cool right?
+- [ ] Change the background color using the color picker, just hover over the colors for a second, and choose the colors you like.
+- [ ] Change the text color from white to any other nice color
 
-- [ ] Make a `store.js` file
-- [ ] Copy + Paste broken code:  
-  ```js
-  console.log("lol");
-  ```
-- [ ] Have an explanation ready for when Zainab interrogates you
+# The challenging tasks 🤼‍♀️
+
+- [ ] Try to think, what does `onclick` in the button tag do? you can use Google
+- [ ] The `SHOUT!` button should convert all text in the page to UPPERCASE. But it's not working because it has a wrong function name. Can you find what's the correct function name?
+- [ ] Navigate to `index.js` file, try to read the names after the word `function`
+- [ ] Fix the problem with shout button
+
+# The super tasks 🦸🏻‍♂️
+
+You think everything is easy for you? Alright let's spice it up!
+
+- [ ] From the Javascript code, try to change the colors from the toggleAppearance function to match the colors you changed in the css file.
