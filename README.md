@@ -21,9 +21,9 @@ Make the following changes:
   * Change the bio from `I love CODED, and I'm willing to learn lots of cool stuff!` to a quick bio about yourself
   * Change the goals in the list to your own goals for this bootcamp
 
-### `styles.css`
+### `style.css`
 
-* Open `styles.css` in VSCode
+* Open `style.css` in VSCode
 * Select everything in the file (`ctrl + A` or `cmd + A`) then cut (`ctrl + x` or `cmd + x`) 😙
 * Now save and refresh the page. What do you see?! 😱
 * Now undo (`ctrl + z` or `cmd + z`)! 😏
@@ -49,4 +49,4 @@ There are several buttons in `index.html` that look like this:
 
 So you think that was easy? Try something a little spicier! 🌶
 
-* Go to `index.js` and edit the `toggleColor` function so that it changes the text color to something that suits the new styling you have in `styles.css`
+* Go to `index.js` and edit the `toggleColor` function so that it changes the text color to something that suits the new styling you have in `style.css`
