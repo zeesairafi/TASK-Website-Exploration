@@ -1,3 +1,6 @@
+# First things first 
+fork and clone this repo https://github.com/JoinCODED/TASK-Website-Exploration
+
 # What is a website??
 
 In this exploration, you'll learn and discover the main languages for website development.
