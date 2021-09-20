@@ -1,5 +1,7 @@
 # First things first 
-fork and clone this repo https://github.com/JoinCODED/TASK-Website-Exploration
+- [Fork this repo](https://github.com/JoinCODED/TASK-Website-Exploration) by clicking the `Fork` button on the top right in Github 
+- Clone the repo you just forked to your device using `ssh link`
+- 🔴 Make sure you `forked` this repo by validating that the name of the repo (on the top left side of the github repo page) should look like this `{YOUR_USERNAME}/TASK-Wesbite-Exploration`. Make sure it's not  `JoinCODED/TASK-Website-Exploration`
 
 # What is a website??
 
