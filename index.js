@@ -5,9 +5,9 @@ function toggleColor() {
   const body = document.getElementsByTagName("body")[0];
   isDark = !isDark;
   if (isDark) {
-    body.style.color = "black";
+    body.style.color = "grey";
   } else {
-    body.style.color = "white";
+    body.style.color = "pink";
   }
 }
 

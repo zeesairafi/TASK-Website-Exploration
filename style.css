@@ -1,7 +1,7 @@
 body {
   color: white; /*This indicates the font color. Change this, and it will change initially*/
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #641f0a, #e73c7e, #062030, #7f23d5);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
